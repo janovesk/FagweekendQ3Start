@@ -13,7 +13,6 @@
 - Lag et action filter for å logge til Debug.WriteLine med hvilke actions som kalles.
 - Ta utgangspunkt i Artist og lag tilsvarende for Album.
 - Legg på DataAnnotations på view modellen for å validere at kun gyldige album kan lagres i viewet.
-- Lag et testprosjekt.
 - Test at rikitg data kommer ut av album-modellen.
 - Test at man får lagret ny data.
 - Add tracks ved å lage en Add-side og med full Postback.
